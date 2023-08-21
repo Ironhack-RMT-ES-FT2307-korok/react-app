@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+#main-app {
+  background-color: burlywood;
+  text-align: center;
+  min-height: 100vh; /* % al viewport heigth */
+  padding: 10px;
+}
+
+#title {
+  color: brown;
+  background-color: bisque;
+  padding: 10px;
+}
+
+.menu-item {
+  background-color: brown;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+}
